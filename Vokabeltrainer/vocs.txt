@@ -1,0 +1,11 @@
+# Unit 1
+Nation=nation
+Innovation=innovation
+transport=transportation
+nachdem=after
+kolonisieren=to colonize
+permanent=permanent
+Siedlung=settlement
+bis (zu dem Zeitpunkt)=by the time
+östlich=eastern
+erklären=to declare
